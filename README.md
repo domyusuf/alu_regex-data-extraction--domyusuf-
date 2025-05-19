@@ -44,5 +44,5 @@ SAMPLE OUTPUT
 
 REQUIREMENTS
 
-Python 3.x
+Python
 No external libraries required (uses only `re`)
